@@ -46,4 +46,4 @@ mintNFT("Apple" ,"red ", " 150" , "Kashmir");
 mintNFT("Banana" ,"Yellow", "100" , " Kerela")
 
 listNFTs();
-getTotalSupply;
+getTotalSupply();
